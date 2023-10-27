@@ -27,10 +27,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/8a2c4e8e-acc5-4c91-9f7c-f0678a9987ae" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Install / Enable IIS in Windows WITH CGI and Common HTTP Features. Then install all prerequisites. (after installing Rewrite Module create a directory named C:\PHP)
 </p>
 <br />
 
