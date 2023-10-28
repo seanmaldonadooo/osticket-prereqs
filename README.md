@@ -80,7 +80,53 @@ New Permissions -> Everyone -> All
 <img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/521a122e-612c-4c0b-b64c-4ca0cf317b03" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Fill out following info.
+Fill out following info. (WAIT TO CLICK INSTALL NOW!)
+</p>
+<br />
+
+<p>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/25eaff80-2d12-4b0f-8996-4d220438e63b" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+At this point you may click "Install now!" on the osTicket webpage.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/fc82d253-975e-473f-a9a2-1447d22cd93d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations! If everything installs correctly you should be able to visit http://localhost/osTicket/ and it should look like this. Afterwards make sure to Delete: C:\inetpub\wwwroot\osTicket\setup and
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
