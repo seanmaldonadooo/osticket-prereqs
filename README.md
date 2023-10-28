@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/6fdf0757-b750-4c0b-9de3-32b472bdd72b" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/6fdf0757-b750-4c0b-9de3-32b472bdd72b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open IIS as Administrator. Register PHP inside of IIS. Restart server after registry. Install osTicket v1.15.8 . Extract and copy “upload” folder to c:\inetpub\wwwroot . Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Restart the server.
