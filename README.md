@@ -30,7 +30,39 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/8a2c4e8e-acc5-4c91-9f7c-f0678a9987ae" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Install / Enable IIS in Windows WITH CGI and Common HTTP Features. Then install all prerequisites. (after installing Rewrite Module create a directory named C:\PHP)
+- Install / Enable IIS in Windows WITH CGI and Common HTTP Features. Install all prerequisites. (after installing Rewrite Module create a directory named C:\PHP)
+</p>
+<br />
+
+<p>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/6fdf0757-b750-4c0b-9de3-32b472bdd72b" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS as Administrator. Register PHP inside of IIS. Restart server after registry. Install osTicket v1.15.8 . Extract and copy “upload” folder to c:\inetpub\wwwroot . Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Restart the server.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/seanmaldonadooo/osticket-prereqs/assets/149026184/c8269d6e-9653-4bcb-86fc-0ae657f80a7d" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
